@@ -139,3 +139,30 @@
 }
 
 
+.card:hover .heart{
+    color: red;
+}
+
+.foto-1:hover{
+    background-image: url(../img/1b.webp);
+}
+
+.foto-2:hover{
+    background-image: url(../img/2b.webp);
+}
+
+.foto-3:hover{
+    background-image: url(../img/3b.webp);
+}
+
+.foto-4:hover{
+    background-image: url(../img/4b.webp);
+}
+
+.foto-5:hover{
+    background-image: url(../img/5b.webp);
+}
+
+.foto-6:hover{
+    background-image: url(../img/6b.webp);
+}
